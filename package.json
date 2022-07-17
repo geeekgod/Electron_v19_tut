@@ -1,0 +1,10 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "Rishabh Singh",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^19.0.8"
+  }
+}
