@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "main.js",
   "author": "Rishabh Singh",
+  "scripts": {
+    "dev": "electron ."
+  },
   "license": "MIT",
   "devDependencies": {
     "electron": "^19.0.8"
